@@ -1,6 +1,10 @@
 HELP.md
 .gradle
 build/
+*-local.properties
+*-local.yml
+*-local.yaml
+
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
